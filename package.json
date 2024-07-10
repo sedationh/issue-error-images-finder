@@ -1,5 +1,5 @@
 {
-  "name": "github-token",
+  "name": "issue-error-images-finder",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

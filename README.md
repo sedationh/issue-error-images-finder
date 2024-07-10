@@ -1,4 +1,4 @@
-# github-token
+# issue-error-images-finder
 
 To install dependencies:
 
